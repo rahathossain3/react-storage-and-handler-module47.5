@@ -1,9 +1,11 @@
 import React from 'react';
-import add from '../../utilities/calculate';
+// import add from '../../utilities/calculate';
+import { add } from '../../utilities/calculate';
 
 const Cosmetics = () => {
     const first = 55;
     const second = 66;
+    // const t = add
     const total = add(first, second);
     return (
         <div>
