@@ -3,7 +3,7 @@ import Cosmetic from '../Cosmetic/Cosmetic';
 
 const Cosmetics = () => {
     //data generate
-    //3rd way {using fetch--------------------------------------
+    //3rd way {my own json & using fetch--------------------------------------
     const [cosmetics, setCosmetics] = useState([]);
 
     useEffect(() => {
