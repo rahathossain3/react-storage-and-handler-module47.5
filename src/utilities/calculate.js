@@ -25,7 +25,7 @@ const itemTotal = items.reduce(itemSumReducer, 0) */
 
 const getTotalPrice = products => {
     const reducer = (previous, current) => previous + current.price;
-    const total = products.reducer(reducer, 0)
+    const total = products.reduce(reducer, 0)
     return total;
 }
 
@@ -38,7 +38,7 @@ export {
     getTotalPrice as getTotal
 };
 // kno function er nam change korte hole
-// getTotalPrice as getTotal
+// getTotalPrice as getTotals---
 
 
 //1st option

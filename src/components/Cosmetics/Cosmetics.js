@@ -17,7 +17,7 @@ const Cosmetics = () => {
     return (
         <div>
             <h1>Welcome to my Cosmetics store</h1>
-            <p>Money needed; {total} </p>
+            <p>Money needed: {total} </p>
             {
                 cosmetics.map(cosmetic => <Cosmetic
                     key={cosmetic.id}

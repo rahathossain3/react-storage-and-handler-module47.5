@@ -1,32 +1,32 @@
 [
     {
         "id": "623a6b0775270aa070d8105f",
-        "age": 485,
+        "price": 485,
         "name": "Terra Fly"
     },
     {
         "id": "623a6b071ffddd2e6cff9b08",
-        "age": 331,
+        "price": 331,
         "name": "Lorena Terrell"
     },
     {
         "id": "623a6b07a8ceacf2b0875414",
-        "age": 202,
+        "price": 202,
         "name": "Mays Rosales"
     },
     {
         "id": "623a6b074666a8bf5f7d9e6c",
-        "age": 288,
+        "price": 288,
         "name": "Lynn Aguilar"
     },
     {
         "id": "623a6b07fda74167c4f2a46a",
-        "age": 550,
+        "price": 550,
         "name": "Kerr Nash"
     },
     {
         "id": "623a6b07adc7c77eaf5205de",
-        "age": 182,
+        "price": 182,
         "name": "Bernadette Hammond"
     }
 ]
